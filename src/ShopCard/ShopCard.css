@@ -1,0 +1,21 @@
+.Card{
+    width: 100%;
+    height: 460px;
+    border: 1px solid red;
+    background-image: url(https://img.freepik.com/free-psd/credit-card-mock-up_23-2148904450.jpg?w=1380&t=st=1664288295~exp=1664288895~hmac=3cdb611c888b0a8a8dbc8393730686233a103d3e0ae2d9f3548a9afe5c2c2bd9);
+    background-size: cover;
+}
+.Card_header{
+    text-align: center;
+    width: 100%;
+}
+.Card_header_h1{
+    color: rgb(255, 255, 255);
+    margin-top: 30vh;
+    font-size: 38px;
+}
+.Card_header_pi{
+    color: rgb(255, 255, 255);
+    margin-top: 1vh;
+    font-size: 17px;
+}

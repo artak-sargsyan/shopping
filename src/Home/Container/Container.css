@@ -1,0 +1,251 @@
+.container_container{
+    display: flex;
+    justify-content: center;
+    margin-top: 13vh;
+    width: 100%;
+}
+.container_container_div{
+    text-align: center;
+    width: 90%;
+}
+.container_container_pi{
+    margin-top: 1vh;
+    color: grey;
+}
+
+.container_cont_div{
+    display: flex;
+    justify-content: center;
+    margin-top: 3vh;
+    width: 100%;
+    flex-wrap: wrap;
+}
+.container_cont_ul{
+    display: flex;
+    justify-content: center;
+    margin-top: 3vh;
+    width: 90%;
+    height: 400px;
+    height: auto;
+    /* border: 1px solid rgb(0, 0, 0); */
+    flex-wrap: wrap;
+    list-style: none;
+}
+.container_cont_ul_li{
+    width: 230px;
+    height: 310px;
+    margin: 3vh 2vh 3vh 2vh;
+    border-radius: 19px;
+    box-shadow: 20px 20px 34px rgba(0,0,0,0.03);
+    cursor: pointer;
+}
+.container_cont_ul_li:hover{
+    box-shadow: 10px 10px 54px rgba(28, 26, 26, 0.1); 
+}
+.container_cont_ul_li:hover>.container_cont_name{
+    color: #088178;
+}
+.container_cont_ul_li_pi{
+    width: 210px;
+    height: 200px;
+    margin: 6px 0px 0px 10px;
+    border-radius: 19px;
+    background-color: rgba(239, 239, 239, 0.722);
+}
+.container_cont_ul_li_img{
+    width: 100%;
+    height: 100%;
+}
+.container_cont_firma{
+    margin: 2vh 1vh 0vh 3vh;
+    color: gray;
+    font-size: 13px;
+}
+.container_cont_name{
+    margin: 0vh 1vh 0vh 3vh;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;  
+}
+.container_cont_money{
+    margin: 0vh 1vh 0vh 3vh;
+    color: #088178;
+}
+.container_cont_icon{
+    margin: 3px 1vh 0vh 3vh;
+    font-size: 13px;
+}
+.container_cont_icon_card{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background: #bcebdaa2;
+    border-radius: 50%;
+    padding: 7px 7px 7px 7px;
+    cursor: pointer;
+    margin-left: 10vh;
+    color:#088178;
+    margin-top: -1vh;
+}
+.container_cont_icon_card:hover{
+    background-color: #088178;
+    color: white;
+}
+.container_reklam{
+    background-image: url(https://img.freepik.com/premium-photo/back-school-university-concept-portrait-young-handsome-hipster-guy-student-with-backpack-assur_1258-111338.jpg?w=1380);
+    background-size: cover;
+    width: 100%;
+    height: 300px;
+    margin-top: 9vh;
+}
+.container_reklam_div{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    width: 100%;
+    height: auto;
+}
+.container_reklam_pi{
+    font-size: 29px;
+    margin-top: 11vh;
+}
+.container_reklam_bi{
+    font-size: 26px;
+}
+.container_reklam_bi_bi{
+    color: white;
+}
+.container_reklam_button{
+    width: 180px;
+    height: 50px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    margin-top: 4vh;
+    margin-left: 44%;
+    transition: 1s;
+}
+.container_reklam_button:hover{
+    background-color: #088178;
+    color: white;
+    transition: 1s;
+}
+.container_container_2{
+    display: flex;
+    justify-content: center;
+    margin-top: 13vh;
+    width: 100%;
+    flex-wrap: wrap;
+}
+.container_container_componens{
+    width: 600px;
+    height: 350px;
+    margin: 2vh 2vh 2vh 2vh;
+    background-image: url('/public/img/shopping1.jpg');
+    background-size: cover;
+}
+.container_container_componens:nth-child(2){
+    background-image: url('/public/img/short.jpg');
+    background-size: cover;
+}
+.container_container_components_2{
+    width: 390px;
+    height: 300px;
+    margin: 2vh 2vh 2vh 2vh;
+    background-image: url('/public/img/shirt.jpg');
+    background-size: cover;
+}
+.container_container_components_2:nth-child(4){
+    background-image: url('/public/img/shirt2.jpg');
+    background-size: cover;
+}
+.container_container_components_2:nth-child(5){
+    background-image: url('/public/img/shop2.webp');
+    background-size: cover;
+}
+.container_container_componens_div{
+    text-align: left;
+    width: 100%;
+}
+.container_container_componens_pi{
+   margin: 27vh 2vh 0vh 4vh;
+   color: rgb(255, 255, 255);
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container_container_bi{
+    font-size: 24px;
+    margin: 0vh 2vh 0vh 4vh;
+    color: rgb(252, 228, 141);
+}
+.container_container_pi_2{
+    margin: 0vh 2vh 0vh 4vh;
+    color: rgb(255, 255, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container_container_button{
+    width: 130px;
+    height: 40px;
+    margin: 3vh 2vh 0vh 4vh;
+    background: none;
+    border: 1px solid white;
+    color: white;
+    transition: 1s;
+    cursor: pointer;
+}
+.container_container_button:hover{
+    background-color: #088178;
+    border: none;
+    transition: 1s;
+}
+.container_container_h1{
+    font-size: 25px;
+    margin-top: 29vh;
+    margin-left: 3vh;
+    color: rgb(252, 228, 141);
+    
+}
+.container_container_pi_3{
+    margin-left: 3vh;
+    color: rgb(255, 255, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: underline;
+    
+}
+.container_end{
+    display: flex;
+    justify-content: center;
+    background-image: url(https://img.freepik.com/free-vector/abstract-technological-background_23-2148897676.jpg?w=1060&t=st=1664017702~exp=1664018302~hmac=fb09c31a15324d51b186eb638e6637cf949523ceebd8086b007fc30d0915dd2c);
+    flex-wrap: wrap;
+}
+.container_end_div{
+    margin: 5vh 1vh 5vh 1vh;
+    width: 700px;
+    height: 80px;
+}
+.container_end_div_h2{
+    font-size: 23px;
+    color: white;
+}
+.container_end_div_pi{
+    font-size: 15px;
+    color: rgb(156, 156, 152);
+    margin: 1vh 0vh 0vh 0vh;
+}
+.container_end_div_input{
+   width: 300px;
+   height: 40px;
+   border-top-left-radius: 4px;
+   border-bottom-left-radius: 4px;
+   margin-top: 2vh;
+   padding-left: 2vh;
+}
+.container_end_div_button{
+    width: 80px;
+    height: 39px;
+    color: white;
+    cursor: pointer;
+    background-color: #088178;
+    border: none;
+    border-bottom-right-radius: 4px;
+    border-top-right-radius: 4px;
+}
+
+

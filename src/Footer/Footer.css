@@ -1,0 +1,91 @@
+.footer{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 100%;
+    background: rgb(236, 236, 236);
+}
+.footer_div{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    height: 300px;
+    margin: 13vh 1vh 0vh 1vh;
+}
+.footer_div_img{
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+h3{
+    margin-top: 2vh;
+    font-size: 18px;
+}
+.footer_div_pi{
+    position: relative;
+    top: 2vh;
+    margin-top: 3px;
+    color: gray;
+
+}
+.footer_div_h3{
+    margin-top: 6vh;
+}
+.footer_div_icon{
+    width: 25px;
+    height: 25px;
+    color: black;
+    margin: 1vh 1vh 0vh 0vh;
+}
+.footer_div_a{
+    position: relative;
+    top: 2vh;
+    margin-top: 3px;
+    text-decoration: none;
+    color: gray;
+    font-size: 14px;
+}
+.footer_div_bi{
+color: black;
+}
+.footer_div_div1{
+    display: flex;
+    justify-content: center;
+}
+.footer_div_div2{
+    width: 168px;
+    height: 50px;
+    border: 2px solid rgb(68, 151, 121);
+    border-radius: 5px;
+    margin: 36px 1px 0px 1px;
+    cursor: pointer;
+}
+.google_icon{
+    width: 100px;
+    height: 40px;
+    margin-left: 4vh;
+}
+.App_icon{
+    position: relative;
+    top: 1vh;
+    width: 40px;
+    height: 40px;
+}
+.footer_div_div1_pi{
+    position: relative;
+    top: -1vh;
+}
+.footer_div_div_pi{
+    margin-top: 2vh;
+    color: gray;
+    font-size: 14px;
+}
+.footer_footer{
+    display: flex;
+    justify-content: left;
+    width: 100%;
+    margin-top: 2vh;
+}
+.footer_footer_icon{
+    margin: 0vh 1vh 0vh 1vh;
+}

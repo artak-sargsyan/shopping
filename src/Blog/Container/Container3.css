@@ -1,0 +1,110 @@
+.container_button_click{
+    width: 100%;
+    border: 1px solid red;
+}
+.container_button_click_div{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    border: 1px solid red;
+}
+.cont_buttoner{
+    width: 40px;
+    height: 40px;
+    margin: 25px 3px 25px 3px;
+    border: none;
+    background: #088178;
+    border-radius: 4px;
+    font-size: 18px;
+    color: white;
+    cursor: pointer;
+}
+.Blog_cont_head{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    border: 1px solid red;
+    flex-wrap: wrap;
+}
+.Blog_cont_head_div{
+    width: 480px;
+    border: 1px solid red;
+    height: 350px;
+    background-image: url(https://img.freepik.com/premium-photo/looking-happy-confident-trustworthy-smiling-showing-victory-sign-with-positive-attitude_1194-409269.jpg?w=1060);
+    background-size: cover;
+    margin: 13vh 1vh 0vh 1vh;
+}
+.Blog_cont_head_div_3{
+    width: 480px;
+    border: 1px solid red;
+    height: 350px;
+    background-image: url(https://img.freepik.com/free-photo/blond-female-dancing-long-red-dress_613910-6982.jpg?w=996&t=st=1664541424~exp=1664542024~hmac=ffb06767efb3a9004dc3375e81789bbf19cb9c71ac96353d08f581e9ca3cfed4);
+    background-size: cover;
+    margin: 13vh 1vh 0vh 1vh;
+}
+.Blog_cont_head_div_4{
+    width: 480px;
+    border: 1px solid red;
+    height: 350px;
+    background-image: url(https://img.freepik.com/free-photo/young-man-choosing-cloths-menswear-shop_1303-30951.jpg?w=1060&t=st=1664541803~exp=1664542403~hmac=442a48cd633de147fabd26c6410a96cc99709d4b528a85f94da380a86e7ba3b2);
+    background-size: cover;
+    margin: 13vh 1vh 0vh 1vh;
+}
+.Blog_cont_head_div_5{
+    width: 480px;
+    border: 1px solid red;
+    height: 350px;
+    background-image: url(https://img.freepik.com/free-photo/young-man-shopping-menswear-store-talking-phone_1303-31006.jpg?w=1060&t=st=1664541956~exp=1664542556~hmac=90cc64827bbf5aa2a9f2a1b031ef652fcf935abf7e3162b17d4cd237aa61c1c2);
+    background-size: cover;
+    margin: 13vh 1vh 0vh 1vh;
+}
+.Blog_cont_head_div_h1{
+    margin-top: -7vh;
+    font-size: 60px;
+    color: rgb(194, 194, 194);
+}
+.Blog_cont_head_div_2{
+    width: 480px;
+    border: 1px solid red;
+    height: 350px;
+    margin: 13vh 1vh 0vh 1vh;
+}
+
+.container_end{
+    display: flex;
+    justify-content: center;
+    background-image: url(https://img.freepik.com/free-vector/abstract-technological-background_23-2148897676.jpg?w=1060&t=st=1664017702~exp=1664018302~hmac=fb09c31a15324d51b186eb638e6637cf949523ceebd8086b007fc30d0915dd2c);
+    flex-wrap: wrap;
+}
+.container_end_div{
+    margin: 5vh 1vh 5vh 1vh;
+    width: 700px;
+    height: 80px;
+}
+.container_end_div_h2{
+    font-size: 23px;
+    color: white;
+}
+.container_end_div_pi{
+    font-size: 15px;
+    color: rgb(156, 156, 152);
+    margin: 1vh 0vh 0vh 0vh;
+}
+.container_end_div_input{
+   width: 300px;
+   height: 40px;
+   border-top-left-radius: 4px;
+   border-bottom-left-radius: 4px;
+   margin-top: 2vh;
+   padding-left: 2vh;
+}
+.container_end_div_button{
+    width: 80px;
+    height: 39px;
+    color: white;
+    cursor: pointer;
+    background-color: #088178;
+    border: none;
+    border-bottom-right-radius: 4px;
+    border-top-right-radius: 4px;
+}

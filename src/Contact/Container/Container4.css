@@ -1,0 +1,152 @@
+.Contact_header{
+    margin-top: 5vh;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    flex-wrap: wrap;
+    overflow: hidden;
+}
+.Contact_header_div{
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    width: 550px;
+    height: 400px;
+    margin: 0vh 1vh 0vh 1vh;
+}
+.Contact_header_div_qartez{
+    width: 670px;
+    height: 400px;
+}
+.Contact_header_pi_22{
+    color: gray;
+    margin: 1vh 0vh 1vh 0vh ;
+}
+.Contact_header_h2{
+    margin: 1vh 0vh 1vh 0vh;
+}
+.Contact_header_icon{
+    position: relative;
+    top: 5px;
+    margin: 0vh 1vh 0vh 0vh;
+}
+.Contact_header_2{
+    margin: 8vh 0vh 8vh 0vh;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    flex-wrap: wrap;
+}
+.Contact_header_2_div{
+    display: flex;
+    flex-direction: column;
+    width: 856px;
+    border: 1px solid rgba(114, 114, 114, 0.279);
+    border-right: none;
+    height: 400px;
+}
+.Contact_header_2_div_2{
+    width: 500px;
+    border: 1px solid rgba(114, 114, 114, 0.279);
+    border-left: none;
+    height: 400px;
+}
+.Contact_header_2_div_name{
+    margin: 1vh 0vh 0vh 6vh;
+}
+.Contact_header_2_div_input{
+    padding-left: 2vh;
+    width: 80%;
+    height: 30px;
+    margin: 3vh 0vh 1vh 6vh;
+    border: 1px solid rgb(202, 202, 202);
+}
+.Contact_header_2_div_input_2{
+    padding: 0vh 0vh 10vh 2vh;
+    width: 80%;
+    height: 120px;
+    margin: 3vh 0vh 1vh 6vh;
+    border: 1px solid rgb(202, 202, 202);
+}
+.Contact_header_2_button{
+    width: 100px;
+    height: 40px;
+    background: #088178;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+    margin: 1vh 0vh 0vh 6vh;
+}
+.container_head_div_div{
+    display: flex;
+    justify-content: center;
+    margin: 2vh 0vh 0vh 0vh;
+}
+.container_head_div_div_pi{
+    width: 80px;
+    height: 80px;
+    background-image: url(https://i.pinimg.com/originals/76/79/33/76793338167edc0a35107d84aab2858d.jpg);
+    background-size: cover;
+    border-radius: 50%;
+    
+}
+.pi2{
+    background-image: url(http://zabavniks.com/wp-content/uploads/Foto_Dzhonni_Deppa_v_molodosti_21_03081647-e1543825497624.jpg);
+    background-size: cover;
+}
+.pi3{
+    background-image: url(https://i.etsystatic.com/9656281/r/il/a3e4fe/617925918/il_794xN.617925918_i9d5.jpg);
+    background-size: cover;
+}
+.container_head_div_texter{
+    color: gray;
+    margin: 2px 0px 0px 0px;
+    font-size: 13px;
+}
+.container_head_div_div_name_text{
+    width: 300px;
+    margin: 0vh 0vh 0vh 2vh;
+}
+
+
+
+
+.container_end{
+    display: flex;
+    justify-content: center;
+    background-image: url(https://img.freepik.com/free-vector/abstract-technological-background_23-2148897676.jpg?w=1060&t=st=1664017702~exp=1664018302~hmac=fb09c31a15324d51b186eb638e6637cf949523ceebd8086b007fc30d0915dd2c);
+    flex-wrap: wrap;
+}
+.container_end_div{
+    margin: 5vh 1vh 5vh 1vh;
+    width: 700px;
+    height: 80px;
+}
+.container_end_div_h2{
+    font-size: 23px;
+    color: white;
+}
+.container_end_div_pi{
+    font-size: 15px;
+    color: rgb(156, 156, 152);
+    margin: 1vh 0vh 0vh 0vh;
+}
+.container_end_div_input{
+   width: 300px;
+   height: 40px;
+   border-top-left-radius: 4px;
+   border-bottom-left-radius: 4px;
+   margin-top: 2vh;
+   padding-left: 2vh;
+}
+.container_end_div_button{
+    width: 80px;
+    height: 39px;
+    color: white;
+    cursor: pointer;
+    background-color: #088178;
+    border: none;
+    border-bottom-right-radius: 4px;
+    border-top-right-radius: 4px;
+}

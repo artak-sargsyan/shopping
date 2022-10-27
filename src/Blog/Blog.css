@@ -1,0 +1,21 @@
+.blog{
+    width: 100%;
+    height: 460px;
+    border: 1px solid red;
+    background-image: url(https://img.freepik.com/free-photo/literature-concept-with-glasses-book_23-2147690500.jpg?w=1380&t=st=1664284865~exp=1664285465~hmac=9b37850f1f4b47ff2809383d75b9434a7baa432b4fcbd4a4acfde0bedb5bc914);
+    background-size: cover;
+}
+.blog_header{
+    text-align: center;
+    width: 100%;
+}
+.blog_header_h1{
+    color: rgb(0, 0, 0);
+    margin-top: 30vh;
+    font-size: 38px;
+}
+.blog_header_pi{
+    color: rgb(0, 0, 0);
+    margin-top: 1vh;
+    font-size: 17px;
+}

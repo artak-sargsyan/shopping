@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.shop{
+    width: 100%;
+    height: 460px;
+    border: 1px solid red;
+    background-image: url(https://img.freepik.com/free-psd/3d-various-sale-objects-mock-up-black-background_23-2148660057.jpg?w=1060&t=st=1664094658~exp=1664095258~hmac=b116aab261ba604fb39f2a6e839c8f817dd1f0681530d479ae374072b47a4fef);
+    background-size: cover;
+}
+.shop_header{
+    text-align: center;
+    width: 100%;
+}
+.shop_header_h1{
+    color: white;
+    margin-top: 30vh;
+    font-size: 38px;
+}
+.shop_header_pi{
+    color: white;
+    margin-top: 1vh;
+}

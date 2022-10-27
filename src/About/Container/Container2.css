@@ -1,0 +1,130 @@
+
+.About_cont_head{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    flex-wrap: wrap;
+    margin: 9vh 0vh 0vh 0vh;
+}
+.About_cont_head_2{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    flex-wrap: wrap;
+}
+.About_cont_head_div{
+    background-size: cover;
+    background-image: url(https://img.freepik.com/free-vector/online-shopping-concept-landing-page_52683-22153.jpg?w=1060&t=st=1664367159~exp=1664367759~hmac=06fb62bc7bb3439d0a05204c49932562993e39f97a739f1ac4714a9b54f9d4dc);
+    width: 700px;
+    height: 400px;
+}
+.About_cont_head_div2{
+    text-align: center;
+    padding: 2vh 0vh 0vh 0vh;
+    width: 700px;
+}
+.About_cont_head_div2_pi{
+    margin: 1vh 3vh 1vh 3vh;
+}
+.About_video{
+    width: 80%;
+    height: 800px;
+    border-radius: 10px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin-top: 8vh;
+}
+.container_ul{
+    display: flex;
+    justify-content: center;
+    width: 90%;
+    list-style: none;
+    flex-wrap: wrap;
+}
+.container_ul_li{
+    display: flex;
+    flex-direction: column;
+    width: 190px;
+    height: 200px;
+    margin: 2vh 2vh 2vh 2vh;
+    border: 1px solid #cce7d0;
+    box-shadow: 20px 20px 34px rgba(0,0,0,0.03);
+    border-radius: 4px;
+}
+.container_ul_li:hover{
+    box-shadow: 10px 10px 54px rgba(70,62,221,0.1); 
+}
+.container_img{
+    width: 100%;
+    height: 140px;
+}
+.container_button{
+    position: relative;
+    left: 12%;
+    top: 3%;
+    height: 27px;
+    width: 76%;
+    border: none;
+    border-radius: 4px;
+    color: #088178;
+}
+.cont_btn1{
+    background-color: #fddde4;
+}
+.cont_btn2{
+    background-color: #cdebbc;
+}
+.cont_btn3{
+    background-color: #d1e8f2;
+}
+.cont_btn4{
+    background-color: #cdd4f8;
+}
+.cont_btn5{
+    background-color: #f6dbf6;
+}
+.cont_btn6{
+    background-color: #fff2e5;
+}
+.container_end{
+    display: flex;
+    justify-content: center;
+    background-image: url(https://img.freepik.com/free-vector/abstract-technological-background_23-2148897676.jpg?w=1060&t=st=1664017702~exp=1664018302~hmac=fb09c31a15324d51b186eb638e6637cf949523ceebd8086b007fc30d0915dd2c);
+    flex-wrap: wrap;
+}
+.container_end_div{
+    margin: 5vh 1vh 5vh 1vh;
+    width: 700px;
+    height: 80px;
+}
+.container_end_div_h2{
+    font-size: 23px;
+    color: white;
+}
+.container_end_div_pi{
+    font-size: 15px;
+    color: rgb(156, 156, 152);
+    margin: 1vh 0vh 0vh 0vh;
+}
+.container_end_div_input{
+   width: 300px;
+   height: 40px;
+   border-top-left-radius: 4px;
+   border-bottom-left-radius: 4px;
+   margin-top: 2vh;
+   padding-left: 2vh;
+}
+.container_end_div_button{
+    width: 80px;
+    height: 39px;
+    color: white;
+    cursor: pointer;
+    background-color: #088178;
+    border: none;
+    border-bottom-right-radius: 4px;
+    border-top-right-radius: 4px;
+}
+
